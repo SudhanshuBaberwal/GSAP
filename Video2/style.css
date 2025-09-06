@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    /* color: #fff; */
+}
+html,
+/* body{
+    background-color: black;
+} */
+body{
+    height: 100%;
+    width: 100%;
+} 
+/* 
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(31, 74, 93);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(17, 28, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+h1{
+    font-size: 60px;
+    position: relative;
+    background-color: red;
+}
+h2{
+    font-size: 60px;
+    position: relative;
+    background-color: yellow;
+} */
+
+body{
+    overflow-x: hidden;
+}
+
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(73, 82, 86);
+    
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(72, 124, 143);
+    /* padding: 40vw 0; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(16, 113, 148);
+    
+}
+
+#page2 h1{
+    font-size: 35vw;
+    text-transform: uppercase;
+}
